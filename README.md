@@ -6,7 +6,7 @@
 - 🌴 I speak broken python
 - 🌱 and I’m currently learning flutter/dart
 - 💞️ I’m looking to collaborate on ios mobile apps
-- ⛵ My hobbies include sailing and buiding models
+- ⛵ My hobbies include sailing and building models
 - 📫 How to reach me: spikelucky808@gmail.com
 
 <!---
