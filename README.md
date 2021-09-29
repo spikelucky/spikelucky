@@ -9,6 +9,8 @@
 - 💞️ I’m looking to collaborate on ios mobile apps
 - ⛵ My hobbies include sailing and building models
 - 📫 How to reach me: spikelucky808@gmail.com
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spikelucky&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spikelucky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 spikelucky/spikelucky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
