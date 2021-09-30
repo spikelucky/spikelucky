@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spikelucky (my first 2 dogs names in case you wondered)
 - 🧑‍🔬 I have done academic research in ocean waves and shape memory alloys, and have a PhD in Ocean Engineering
-- 🏢 I'm working for Shipwright LLC as research engineer and also as developer
-- 💻📱 I'm currently working on the SAFESEA app which will give mariners quick access to ship documents in emergencies
+- 🏢 I'm working for [Shipwright, LLC](http://www.shipwright.biz) as research engineer and also as developer
+- 💻📱 I'm currently working on the [SAFESEA](https://safesea.solutions) app which will give mariners quick access to ship documents in emergencies
 - 👀 I’m interested in data analysis and app programming
 - 🌳 I'm fluent in Matlab
 - 🌴 I speak broken python
