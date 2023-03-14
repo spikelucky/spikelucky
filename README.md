@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @spikelucky (my first 2 dogs names in case you wondered)
-- 🧑‍🔬 I have done academic research in ocean waves and shape memory alloys, and have a PhD in Ocean Engineering
-- 🏢 I'm working for [Shipwright, LLC](http://www.shipwright.biz) as research engineer and also as developer
-- 💻📱 I'm currently working on the [SAFESEA](https://safesea.solutions) app which will give mariners quick access to ship documents in emergencies
+- 🧑‍🔬 I have done academic research in ocean waves and nanomaterials, and have a PhD in Ocean Engineering
+- 🏢 I'm working for [Deutsche Windguard](https://www.windguard.de/) as systems engineer
+-   and previously worked for: [POPPE + POTTHOFF MASCHINENBAU](https://www.poppe-potthoff.de/unternehmen/standorte/europa/poppe-potthoff-maschinenbau-gmbh/) as research  and development engineer
+-               [Shipwright, LLC](http://www.shipwright.biz) as research engineer and also as developer
+- 💻📱 A great project I worked on is the [SAFESEA](https://safesea.solutions) app which gives mariners quick access to ship documents in emergencies
 - 👀 I’m interested in data analysis and app programming
-- 🌳 I'm fluent in Matlab
+- 🌳 I'm fluent in Matlab and LabView
 - 🌴 I speak broken python
 - 🌱 and I’m currently learning flutter/dart
 - 💞️ I’m looking to collaborate on ios mobile apps
