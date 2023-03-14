@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spikelucky (my first 2 dogs names in case you wondered)
 - 🧑‍🔬 I have done academic research in ocean waves and nanomaterials, and have a PhD in Ocean Engineering
-- 🏢 I'm working for [Deutsche Windguard](https://www.windguard.de/) as systems engineer
--   and previously worked for: [POPPE + POTTHOFF MASCHINENBAU](https://www.poppe-potthoff.de/unternehmen/standorte/europa/poppe-potthoff-maschinenbau-gmbh/) as research  and development engineer
+- 🏢 I'm working for [Deutsche Windguard](https://www.windguard.de/) as systems engineer <br />
+and previously worked for: [POPPE + POTTHOFF MASCHINENBAU](https://www.poppe-potthoff.de/unternehmen/standorte/europa/poppe-potthoff-maschinenbau-gmbh/) as research  and development engineer
 -               [Shipwright, LLC](http://www.shipwright.biz) as research engineer and also as developer
 - 💻📱 A great project I worked on is the [SAFESEA](https://safesea.solutions) app which gives mariners quick access to ship documents in emergencies
 - 👀 I’m interested in data analysis and app programming
