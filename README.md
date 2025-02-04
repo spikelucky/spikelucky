@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spikelucky (my first 2 dogs names in case you wondered)
+- 👋 Hi, I’m @spikelucky (my first 2 dogs' names in case you wondered)
 - 🧑‍🔬 I have done academic research in ocean waves and nanomaterials, and have a PhD in Ocean Engineering
 - 🏢 I'm working for [Deutsche Windguard](https://www.windguard.de/) as systems engineer <br />
   previously worked for: - [POPPE + POTTHOFF MASCHINENBAU](https://www.poppe-potthoff.de/unternehmen/standorte/europa/poppe-potthoff-maschinenbau-gmbh/) as research  and development engineer <br />
