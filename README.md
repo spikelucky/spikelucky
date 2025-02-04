@@ -5,9 +5,9 @@
             - [Shipwright, LLC](http://www.shipwright.biz) as research engineer and also as developer
 - 💻📱 A great project I worked on is the [SAFESEA](https://safesea.solutions) app which gives mariners quick access to ship documents in emergencies
 - 👀 I’m interested in data analysis and app programming
-- 🌳 I'm fluent in Matlab and LabView
-- 🌴 I speak broken python
-- 🌱 and I’m currently learning flutter/dart
+- 🌳 I'm fluent in Matlab, Python, and LabView
+- 🌴 I speak broken flutter/dart
+- 🌱 and I’m currently learning nothing new
 - 💞️ I’m looking to collaborate on ios mobile apps
 - ⛵ My hobbies include sailing and building models
 - 📫 How to reach me: spikelucky808@gmail.com
